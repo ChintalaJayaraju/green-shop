@@ -21,7 +21,7 @@ await connectCloudinary();
 // ✅ Allow multiple origins
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://green-shop-f4tt.vercel.app'
+  'https://green-shop-q91k.vercel.app'
 ];
 
 // ✅ CORS must come BEFORE json/cookie
